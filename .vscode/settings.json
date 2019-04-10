@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "vscode-icons",
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onWindowChange"
+  }
+  
